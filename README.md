@@ -1,1 +1,1 @@
-# Information-page-work.
+# Information-page-work
