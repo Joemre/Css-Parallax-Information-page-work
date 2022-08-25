@@ -1,4 +1,4 @@
-# https://joemre.github.io/Information-page-work/
+# https://joemre.github.io/Css-Parallax-Information-page-work/
 ## Technologies Used
 -HTML, CSS
 
